@@ -62,11 +62,7 @@
 
 ## Others
 * 知乎专栏：[人工智能与量化投资](https://zhuanlan.zhihu.com/intro-to-quant)、[宏观经济算命师的解签](https://zhuanlan.zhihu.com/hgjjsms)、[黄金矿工](https://zhuanlan.zhihu.com/c_1234153682486874112)
-* 微信公众号：农药兑水
-  <div  align="center">
-    <img src="./OA.png" width="300" alt="图片名称" align=center/>
-  </div>
-* 微信讨论群因为二维码会过期，大家可以加我微信申请进群，请备注一下姓名-机构-方向:
+* 对于这一方向感兴趣的各位童鞋，可以加我微信共同学习和讨论:
   <div  align="center">
     <img src="./WeChat.jpg" width="300" alt="图片名称" align=center/>
   </div>
